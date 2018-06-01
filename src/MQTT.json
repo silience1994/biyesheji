@@ -1,0 +1,6 @@
+{
+  "HOST":"tcp://127.0.0.1:61613",
+  "ClientID":"server",
+  "UserName":"server",
+  "Password":"server"
+}

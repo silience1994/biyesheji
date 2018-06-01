@@ -1,0 +1,9 @@
+{
+	"contentType":"device-new",
+	"data":
+	{
+		"new-manager":"NEW MANAGER NAME",
+		"deviceName":"device",
+		"deviceID":"mac"
+	}
+}
